@@ -1,6 +1,6 @@
 # coding: utf-8
 
-import requests
+import requests  # require "pip install requests"
 
 
 response = requests.get('http://google.com')
