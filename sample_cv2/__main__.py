@@ -1,6 +1,6 @@
 # coding: utf-8
 
-import cv2
+import cv2  # require "pip install opencv-python"
 
 
 print("Please input file path")
